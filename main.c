@@ -62,7 +62,7 @@ int main(int argc, char **argv) {
     // Set the color to light blue (94 is light blue)
     printf("\x1b[36;1m"); // Cyan text color
 
-// Ocean
+// Pepsi can
     printf("                          ..--------------------..\n");
     printf("                         |``--------------------''|\n");
     printf("                         |                        |\n");
